@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/aaronpowell/db.js.png?branch=master)](https://travis-ci.org/aaronpowell/db.js)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/aaronpowell)](https://saucelabs.com/u/aaronpowell)
-[![npm version](https://img.shields.io/npm/v/db.js.svg?style=flat-square)](https://npmjs.org/packages/db.js)
+[![npm version](https://img.shields.io/npm/v/db.js.svg?style=flat-square)](https://www.npmjs.com/package/db.js)
 [![bower version](https://img.shields.io/bower/v/db.js.svg?style=flat-square)](https://github.com/aaronpowell/db.js)
 [![License](https://img.shields.io/github/license/aaronpowell/db.js.svg?style=flat-square)](https://github.com/aaronpowell/db.js/blob/master/LICENSE.md)
 
